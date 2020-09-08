@@ -4,6 +4,6 @@ This repository belongs to Lê Quang Nhật
 
 Under the collaboration of:
 
-Lê Quang Nhật
+- Lê Quang Nhật
 
-Phạm Dương Vũ
+- Phạm Dương Vũ
